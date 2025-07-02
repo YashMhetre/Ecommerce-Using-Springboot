@@ -69,12 +69,12 @@ A person who can submit complaint without registering into the system.
 
 * **Step 1:** Open Terminal And Run Below Command
 ```bash
-  git clone https://github.com/rudradcruze/Jonas-General-Purpose-Shop-SpringBoot.git
+   git clone https://github.com/YashMhetre/Ecommerce-Using-Springboot.git
 ```
 * **Step 2: ** Open MySQL Command Promte and Run The Below Query
 ```sql
-    INSERT INTO `jgps_rudra`.`roles` (`name`) VALUES ('ADMIN');
-    INSERT INTO `jgps_rudra`.`roles` (`name`) VALUES ('CUSTOMER');
+    INSERT INTO `jpgs_yash`.`roles` (`name`) VALUES ('ADMIN');
+    INSERT INTO `jpgs_yash`.`roles` (`name`) VALUES ('CUSTOMER');
 ```
 * **Step 3:**
 Import the project in your IDE and run the both module (admin and customer).Then<br>

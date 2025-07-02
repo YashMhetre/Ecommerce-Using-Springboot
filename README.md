@@ -59,7 +59,7 @@ A person who can submit complaint without registering into the system.
 
 ## Admin / User Guide
 
-[View the step by step guide in pdf](https://drive.google.com/file/d/1aly4NYULqFYW-6TrRpCS_ey5Q7YM6Tj-/view?usp=sharing)
+[View the step by step guide in pdf attached in this repository]
 ## Installation
 
 * **Editor:** IntelliJ IDEA / Eclipse / NetBeans
